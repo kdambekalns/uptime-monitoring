@@ -4,7 +4,7 @@
     "url": "https://karsten.dambekalns.de/",
     "icon": "https://icons.duckduckgo.com/ip3/karsten.dambekalns.de.ico",
     "slug": "personal-i",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 944,
     "timeMonth": 910,
     "timeYear": 903,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-18": 0
+    }
   },
   {
     "name": "Personal II",
