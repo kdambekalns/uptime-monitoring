@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/karsten.dambekalns.de.ico",
     "slug": "personal-i",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 904,
-    "timeDay": 873,
-    "timeWeek": 951,
-    "timeMonth": 913,
-    "timeYear": 904,
-    "dailyMinutesDown": {
-      "2023-05-18": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 905,
+    "timeDay": 976,
+    "timeWeek": 947,
+    "timeMonth": 914,
+    "timeYear": 905,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Personal II",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 645,
-    "timeDay": 489,
-    "timeWeek": 807,
-    "timeMonth": 710,
-    "timeYear": 645,
+    "time": 647,
+    "timeDay": 791,
+    "timeWeek": 672,
+    "timeMonth": 713,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2023-03-19": 36
     }
