@@ -4,11 +4,11 @@
     "url": "https://karsten.dambekalns.de/",
     "icon": "https://icons.duckduckgo.com/ip3/karsten.dambekalns.de.ico",
     "slug": "personal-i",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 901,
     "timeDay": 778,
@@ -16,7 +16,7 @@
     "timeMonth": 895,
     "timeYear": 901,
     "dailyMinutesDown": {
-      "2023-05-25": 5
+      "2023-05-25": 1
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.k-fish.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.k-fish.de.ico",
     "slug": "personal-ii",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 646,
     "timeDay": 570,
     "timeWeek": 652,
     "timeMonth": 698,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2023-05-25": 5,
+      "2023-05-25": 0,
       "2023-03-19": 36
     }
   }
