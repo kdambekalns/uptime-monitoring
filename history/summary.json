@@ -15,7 +15,9 @@
     "timeWeek": 880,
     "timeMonth": 855,
     "timeYear": 933,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "Personal II",
