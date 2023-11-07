@@ -4,19 +4,19 @@
     "url": "https://karsten.dambekalns.de/",
     "icon": "https://icons.duckduckgo.com/ip3/karsten.dambekalns.de.ico",
     "slug": "personal-i",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 956,
-    "timeDay": 762,
-    "timeWeek": 922,
-    "timeMonth": 1014,
-    "timeYear": 956,
+    "time": 955,
+    "timeDay": 756,
+    "timeWeek": 902,
+    "timeMonth": 1006,
+    "timeYear": 955,
     "dailyMinutesDown": {
-      "2023-11-07": 0
+      "2023-11-07": 11
     }
   },
   {
