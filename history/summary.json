@@ -22,7 +22,7 @@
     "url": "https://www.k-fish.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.k-fish.de.ico",
     "slug": "personal-ii",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 625,
     "timeYear": 625,
     "dailyMinutesDown": {
+      "2024-02-22": 0,
       "2023-11-27": 17,
       "2023-09-25": 35,
       "2023-03-19": 36
