@@ -6,18 +6,16 @@
     "slug": "personal-i",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1023,
-    "timeDay": 5987,
-    "timeWeek": 3695,
-    "timeMonth": 2180,
-    "timeYear": 1040,
-    "dailyMinutesDown": {
-      "2024-08-12": 6
-    }
+    "time": 1024,
+    "timeDay": 5970,
+    "timeWeek": 3720,
+    "timeMonth": 2188,
+    "timeYear": 1041,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Personal II",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 642,
-    "timeDay": 871,
-    "timeWeek": 699,
-    "timeMonth": 716,
-    "timeYear": 646,
+    "timeDay": 879,
+    "timeWeek": 738,
+    "timeMonth": 726,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2024-05-22": 16,
       "2023-11-27": 17,
