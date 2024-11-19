@@ -1,7 +1,7 @@
 url: https://karsten.dambekalns.de/
-status: up
-code: 200
-responseTime: 873
-lastUpdated: 2024-11-18T23:05:17.570Z
+status: down
+code: 500
+responseTime: 601
+lastUpdated: 2024-11-19T06:48:06.598Z
 startTime: 2023-03-14T09:11:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
