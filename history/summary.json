@@ -13,7 +13,7 @@
     "time": 1123,
     "timeDay": 869,
     "timeWeek": 853,
-    "timeMonth": 953,
+    "timeMonth": 954,
     "timeYear": 1177,
     "dailyMinutesDown": {
       "2024-09-09": 32,
@@ -27,17 +27,16 @@
     "slug": "personal-ii",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 670,
     "timeDay": 630,
     "timeWeek": 627,
-    "timeMonth": 703,
+    "timeMonth": 704,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2024-12-30": 5,
       "2024-11-28": 27,
       "2024-05-22": 16
     }
