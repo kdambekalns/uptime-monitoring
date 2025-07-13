@@ -6,14 +6,14 @@
     "slug": "personal-i",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "89.25%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.97%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.90%",
     "time": 1130,
-    "timeDay": 1147,
-    "timeWeek": 948,
-    "timeMonth": 915,
+    "timeDay": 808,
+    "timeWeek": 944,
+    "timeMonth": 914,
     "timeYear": 1246,
     "dailyMinutesDown": {
       "2025-07-11": 189,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 722,
-    "timeDay": 934,
-    "timeWeek": 725,
-    "timeMonth": 757,
-    "timeYear": 732,
+    "timeDay": 947,
+    "timeWeek": 773,
+    "timeMonth": 772,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2024-11-28": 27
     }
